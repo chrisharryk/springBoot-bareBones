@@ -1,6 +1,6 @@
-## Barebones Spring Boot API with the Spring Data JPA
+# Barebones Spring Boot API with the Spring Data JPA
 
-# What's theis about?
+## What's theis about?
 * Just an API written in Spring Boot
 * Revolves around the "Student" entity and works with the Spring Data JPA to save and retrieve data drom Relational DB
 * Does not have a user interface, works entierly on request URLs and JSONs
